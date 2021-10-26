@@ -1,6 +1,6 @@
 # EP-PREDICTOR
 
-Using Machine Learning Model to predict the Net hourly Electrical Energy Output from the Combined Cycle Power Plant Data Set collected over a span of 5 years.
+Using Machine Learning Model to predict the Net hourly Electrical Energy Output from the Combined Cycle Power Plant Data Set collected over a span of 6 years.
 
 Data Set Information:
 
